@@ -1,4 +1,4 @@
-package com.javakafka.kafkajava;
+package com.javakafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
